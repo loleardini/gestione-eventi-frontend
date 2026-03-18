@@ -1,4 +1,4 @@
-const API_URL = 'https://gestione-eventi-backend.onrender.com';
+const API_URL = 'https://gestione-eventi-backend.onrender.com/api';
 let currentUser = null;
 let currentToken = null;
 let currentView = 'login';
