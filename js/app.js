@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:8000/api'; // CAMBIA QUESTO URL IN PRODUZIONE
+const API_URL = 'https://api-gestione-eventi.onrender.com/api'; 
 
 // --- STATO DELL'APP ---
 let currentUser = null;
